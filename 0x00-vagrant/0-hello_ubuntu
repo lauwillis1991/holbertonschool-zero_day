@@ -1,0 +1,40 @@
+What is a virtual machine?
+
+It is the emulation of a computer system which imitates dedicated hardware.
+
+What is Vagrant?
+
+It's a tool for developers that rapidly sets up a complete development environm
+ent. It's meant to automate processes which reduces setup time and prevents sit
+uations in which projects would run in one developer's machine and not in someo
+ne's machine.
+
+Who wrote Vagrant?
+
+Mitchell Hashimoto
+
+What is Ubuntu?
+
+Ubuntu is a OS for Linux.
+
+What does Ubuntu mean?
+Ubuntu is a South African philosophy for humanity to others.
+How to use VMS with Vagrant?
+
+Vagrant sits on top of virtualization softwares like Virtualbox and you can mak
+e a Vagrantfile to create a box. A box is format for Vagrant environments that
+you can copy from one machine to another to replicate the a similiar environmen
+t
+
+What does the command uname do?
+
+Uname prints out the system information.
+
+What is a zero-day?
+
+Zero-day is a vulnerability or a hole that hackers can exploit. It's referred t
+o zero-day because the software's author literally has zero days to create patc
+hes to mitigate hacker's actions.
+
+What does the command uname print when you run it without any option?
+It will print out Linux.
